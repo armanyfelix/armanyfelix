@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Armany from Mexico, 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanyfelix)](https://github.com/armanyfelix/github-readme-stats)
+
+
 <!--
 **armanyfelix/armanyfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
