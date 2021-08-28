@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Armany Felix</h1>
 <h3 align="center">a Mexican Developer and Designer</h3>
 
-I enjoy development and learn how to use news tecnologies, my favorite frameworks are React and Nexjs, as well as work in WorkPress, i also enjoy UI / UX design in general. You can't check my work here!! or you can follow me in ...
+I enjoy development and learn how to use news tecnologies, my favorite frameworks are React and Nexjs, as well as work in WorkPress and also like UI / UX design in general. You can't check my work here!! or you can follow me in ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanyfelix&label=Profile%20views&color=0e75b6&style=flat" alt="armanyfelix" /> </p>
 
