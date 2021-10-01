@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <h1 align="center">Hi 👋, I'm Armany Felix</h1>
 <h3 align="center">a Mexican Developer and Designer</h3>
