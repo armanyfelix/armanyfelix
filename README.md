@@ -11,7 +11,7 @@ I enjoy development and learn how to use news tecnologies, my favorite framework
 
 - 🔭 I’m currently working on [freelance](my own proyects)
 
-- 🌱 I’m currently learning **TypeScript and WorkPress**
+- 🌱 I’m currently learning **TypeScript and Docker**
 
 - 👯 I’m looking to collaborate on **sgular**
 
