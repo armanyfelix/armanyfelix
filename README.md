@@ -17,17 +17,13 @@ I create dynamic websites from scratch and I also like design. I have been build
 
 - 🤝 I’m looking for help with **design some stuff**
 
-- 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.com)
+- 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.herokuapp.com)
 
 - 📝 I regularly write articles on [forums](forums)
 
-- 💬 Ask me about **react, nextjs and workpress**
-
-- 📫 How to reach me **luis.armany.felix**
+- 💬 Ask me about **nextjs and music**
 
 - 📄 Know about my experiences [freelance, currently looking for a formal job](freelance, currently looking for a formal job)
-
-- ⚡ Fun fact **I like tattoos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
