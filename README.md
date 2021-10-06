@@ -9,8 +9,6 @@ I create dynamic websites from scratch and I also like design. I have been build
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanyfelix" alt="armanyfelix" /></a> </p>
 
-- 🔭 I’m currently working on [freelance](my own proyects)
-
 - 🌱 I’m currently learning **TypeScript and Docker**
 
 - 🤝 I’m looking for help with **design some stuff**
