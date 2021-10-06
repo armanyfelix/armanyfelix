@@ -13,8 +13,6 @@ I create dynamic websites from scratch and I also like design. I have been build
 
 - 🌱 I’m currently learning **TypeScript and Docker**
 
-- 👯 I’m looking to collaborate on **sgular**
-
 - 🤝 I’m looking for help with **design some stuff**
 
 - 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.herokuapp.com)
