@@ -9,17 +9,17 @@ I create dynamic websites from scratch and I also like design. I have been build
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanyfelix" alt="armanyfelix" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and Docker**
+- 🌱 I’m currently learning **Ruby on rail, openia**
 
 - 🤝 I’m looking for help with **design some stuff**
 
-- 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.herokuapp.com)
+- 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.com)
 
-- 📝 I regularly write articles on [forums](forums)
+<!-- - 📝 I regularly write articles on [forums](forums) -->
 
-- 💬 Ask me about **nextjs and music**
+<!-- - 💬 Ask me about **nextjs and music** -->
 
-- 📄 Know about my experiences [freelance, currently looking for a formal job](freelance, currently looking for a formal job)
+- 📄 Know about my experiences [freelancer, full stack soFT](freelance, currently looking for a formal job)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
