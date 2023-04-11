@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Armany Felix</h1>
 <h3 align="center">a Mexican Full Stack Developer</h3>
 
-I create dynamic websites from scratch and I also like design. I have been building several projects that have given me the necessary experience to be able to develop flexible, stable and scalable applications. I like to work with the MERN stack but also like to use others backend languages and css frameworks. I am always trying to learn new things to get more experience and be a better developer.
+My passio is coding, I create websites with different technologies and I also like design. I have been building several projects that have given me the necessary experience to be able to develop flexible, stable and scalable applications. I like to work with the MERN stack but also like to use others backend languages and css frameworks. I am always trying to learn new things to get more experience and be a better developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanyfelix&label=Profile%20views&color=0e75b6&style=flat" alt="armanyfelix" /> </p>
 
