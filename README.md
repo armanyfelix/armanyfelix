@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 😊
 
 <h1 align="center">Hi 👋, I'm Armany Felix</h1>
 <h3 align="center">a Mexican Full Stack Developer</h3>
@@ -13,7 +13,7 @@ My passio is coding, I create websites with different technologies and I also li
 
 - 🤝 I’m looking for help with **design some stuff**
 
-- 👨‍💻 All of my projects are available at [armanyfelix.com](armanyfelix.com)
+- 👨‍💻 All of my projects are available at [armanyfelix.com]([armanyfelix.com](https://armanyfelix.vercel.app/))
 
 <!-- - 📝 I regularly write articles on [forums](forums) -->
 
