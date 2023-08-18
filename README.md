@@ -9,9 +9,7 @@ My passion is coding, I create websites with different technologies and I also l
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanyfelix" alt="armanyfelix" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on rail, openia**
-
-- 🤝 I’m looking for help with **design some stuff**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [armanyfelix.com]([armanyfelix.com](https://armanyfelix.vercel.app/))
 
@@ -19,7 +17,7 @@ My passion is coding, I create websites with different technologies and I also l
 
 <!-- - 💬 Ask me about **nextjs and music** -->
 
-- 📄 Know about my experiences [freelancer, full stack soFT](freelance, currently looking for a formal job)
+- 📄 Know about my experiences [freelancer, full stack](freelance, Axovia marketing and technologies)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
